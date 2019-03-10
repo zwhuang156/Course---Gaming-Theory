@@ -1,0 +1,21 @@
+* 7:09pm Jan 16  2017
+* a55 vs a1
+* 1 2 2 2 2 2 5 1 2 2 2 2 2 5
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* X X X X
+* first 0
+* time 900
+* 1. b8(P) c4(p)
+* 2. d8(g) c8(r)
+* a1 wins
+* Comment 0 0
+0. 1484564974796
+1. 1484564974984
+2. 1484564975140
+3. 1484564975390

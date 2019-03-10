@@ -1,0 +1,15 @@
+Account=a0
+Password=123
+Mode=0
+CMPMode=0
+ReStart=1
+TKMode=2
+DBMode=1
+ReMidBoard=0
+ReStartTimes=2
+Turn=1
+TurnChange=1
+TimeMode=0
+Time=900
+LongCatch=3
+MidBoard=0
